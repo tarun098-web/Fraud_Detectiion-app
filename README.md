@@ -31,7 +31,8 @@ Select models, performance metrics, and fairness metrics from dropdown menus.
 
 View bar charts comparing fairness and performance across groups.
 
-Explore calibration outcomes and subgroup disparities interactively.
+Explore calibration outcomes and subgroup disparities interactively. 
+👉 [Click here to launch the app](https://frauddetectiion-app-exhfccadzdcauvkrxvlexg.streamlit.app/)
 
 🔹 Structure
 
